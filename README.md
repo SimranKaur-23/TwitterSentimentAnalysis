@@ -25,3 +25,6 @@
   - made a function to convert the tweets to n-gram.
   - displayed the bi-grams and tri-grams of tweets on screen.
   - next, separated the training and testing data and applied sentiment analysis on logistic regression. Displayed the classification report for the same.
+## How to get data from API?
+ - To get the data from twitter API you have to make an account on twitter and then fill a form giving details about how you'll use the data. 
+ - Then you have the access the consumer key, consumer secret, access token and access token secret
